@@ -10,7 +10,8 @@ Prerequisites
 
 Deploy the Power BI template
 
-- Download the Power BI template for the Accelerator
+- Download the Power BI Status Report template for the Accelerator
+  https://github.com/dagster/Project-for-the-web-Status-Report/blob/main/Project%20for%20the%20web%20Solution%20Status%20Report%20template.pbit
 - Deploy it using Power BI Desktop or in the PowerBI.com service.
 - When prompted for the environment url, use the base url of your environment. 
   For example: https://myenvironment.crm.dynamics.com
